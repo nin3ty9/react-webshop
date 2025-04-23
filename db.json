@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "hf91",
+      "productName": "Keps"
+    },
+    {
+      "id": "gf34",
+      "productName": "Skor"
+    },
+    {
+      "id": "jg65",
+      "productName": "Byxor"
+    },
+    {
+      "id": "00fd",
+      "productName": "Luvtröja"
+    },
+    {
+      "id": "892b",
+      "productName": "Kallingar"
+    },
+    {
+      "id": "8566",
+      "productName": "Hjälm"
+    },
+    {
+      "id": "391a",
+      "productName": "Strumpor"
+    }
+  ]
+}
